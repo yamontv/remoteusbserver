@@ -1,12 +1,13 @@
 # Remote USBUART Server
 ## Connect to RS-232 USB adapters remotely
 
-Author: Yamont Vyacheslav
+Author: Vyacheslav Yamont
 
 Date: Mar 17, 2019
 
 ## About
 Server application for connecting technical support members with remote USB terminals.
+The application is supposed to be used with [Remote USB Serial Client](https://github.com/yamontv/remoteUSBSerialClient).
 
 ## Installation
 ### Requirements
