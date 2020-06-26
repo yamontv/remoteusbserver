@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "../virtualenv/bin/python",
+    "python.venvPath": "../virtualenv",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "yapf",
+}
